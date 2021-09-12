@@ -7,5 +7,5 @@ function openNav() {
   }
 
   function myFunction(){
-    window.location.href = "https://hir2009.github.io/Add/";
+    window.location.href = "https://hir2009.github.io/cart/";
 }
